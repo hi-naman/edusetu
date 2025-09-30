@@ -1,0 +1,304 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Naman Sawnani",
+      "course": "B.Tech ECE",
+      "semester": 6,
+      "cgpa": 8.2,
+      "attendance": 92,
+      "email": "naman.sawnani@college.edu",
+      "phone": "+91 9876543210",
+      "branch": "Electronics and Communication Engineering",
+      "year": 3,
+      "status": "active",
+      "achievements": [
+        {
+          "id": "A001",
+          "title": "NPTEL AI Course Certification",
+          "type": "Educational",
+          "year": 2024,
+          "verified": true,
+          "description": "Completed Advanced AI and Machine Learning course with 95% score"
+        },
+        {
+          "id": "A002", 
+          "title": "Hackathon Winner - Code2Create",
+          "type": "Technical",
+          "year": 2025,
+          "verified": true,
+          "description": "First place in inter-college hackathon with Smart Campus solution"
+        },
+        {
+          "id": "A003",
+          "title": "Electronics Club President",
+          "type": "Co-curricular",
+          "year": 2025,
+          "verified": false,
+          "description": "Leading a team of 50+ students in organizing technical events"
+        },
+        {
+          "id": "A004",
+          "title": "AWS Cloud Practitioner",
+          "type": "Technical",
+          "year": 2024,
+          "verified": true,
+          "description": "AWS Certified Cloud Practitioner with hands-on cloud experience"
+        },
+        {
+          "id": "A005",
+          "title": "Debate Competition Winner",
+          "type": "Co-curricular",
+          "year": 2024,
+          "verified": false,
+          "description": "Won inter-college debate competition on technology and society"
+        }
+      ],
+      "internships": [
+        {
+          "id": "I001",
+          "company": "TechNova Labs",
+          "role": "AI/ML Intern",
+          "duration": "6 weeks",
+          "year": 2024,
+          "description": "Worked on computer vision projects using PyTorch and OpenCV"
+        },
+        {
+          "id": "I002",
+          "company": "StartupXYZ",
+          "role": "Full Stack Developer Intern",
+          "duration": "3 months",
+          "year": 2024,
+          "description": "Developed web applications using React.js and Node.js"
+        }
+      ],
+      "research": [
+        {
+          "id": "R001",
+          "title": "Efficient FM Modulation Techniques for IoT Devices",
+          "conference": "IEEE IC2024",
+          "year": 2024,
+          "status": "Published",
+          "coAuthors": ["Dr. Priya Singh", "Ravi Kumar"]
+        }
+      ],
+      "skills": ["Python", "JavaScript", "React.js", "Machine Learning", "AWS", "IoT", "Circuit Design"],
+      "attendanceData": {
+        "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"],
+        "attendance": [85, 88, 92, 89, 95, 91, 94, 92]
+      }
+    },
+    {
+      "id": "S002",
+      "name": "Priya Patel",
+      "course": "B.Tech CSE",
+      "semester": 4,
+      "cgpa": 9.1,
+      "attendance": 96,
+      "email": "priya.patel@college.edu",
+      "phone": "+91 9876543211",
+      "branch": "Computer Science Engineering",
+      "year": 2,
+      "status": "active",
+      "achievements": [
+        {
+          "id": "A006",
+          "title": "Google Developer Student Club Lead",
+          "type": "Co-curricular",
+          "year": 2025,
+          "verified": true,
+          "description": "Leading GDSC chapter with 200+ active members"
+        },
+        {
+          "id": "A007",
+          "title": "Microsoft Azure Fundamentals",
+          "type": "Technical",
+          "year": 2024,
+          "verified": true,
+          "description": "Azure cloud certification with practical project experience"
+        },
+        {
+          "id": "A008",
+          "title": "Data Structures and Algorithms Course",
+          "type": "Educational",
+          "year": 2024,
+          "verified": false,
+          "description": "Completed advanced DSA course with 98% score"
+        }
+      ],
+      "internships": [
+        {
+          "id": "I003",
+          "company": "Microsoft",
+          "role": "Software Engineering Intern",
+          "duration": "12 weeks",
+          "year": 2024,
+          "description": "Contributed to Azure cloud services development"
+        }
+      ],
+      "research": [],
+      "skills": ["Java", "Python", "Cloud Computing", "DevOps", "Leadership"],
+      "attendanceData": {
+        "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"],
+        "attendance": [92, 94, 96, 95, 98, 96, 97, 96]
+      }
+    },
+    {
+      "id": "S003",
+      "name": "Rahul Kumar",
+      "course": "B.Tech Mechanical",
+      "semester": 8,
+      "cgpa": 7.8,
+      "attendance": 88,
+      "email": "rahul.kumar@college.edu",
+      "phone": "+91 9876543212",
+      "branch": "Mechanical Engineering",
+      "year": 4,
+      "status": "active",
+      "achievements": [
+        {
+          "id": "A009",
+          "title": "CAD Design Competition Winner",
+          "type": "Technical",
+          "year": 2024,
+          "verified": true,
+          "description": "First place in national CAD design competition"
+        },
+        {
+          "id": "A010",
+          "title": "Mechanical Engineering Honor Roll",
+          "type": "Educational",
+          "year": 2024,
+          "verified": true,
+          "description": "Achieved honor roll status for academic excellence"
+        },
+        {
+          "id": "A011",
+          "title": "Sports Committee Member",
+          "type": "Co-curricular",
+          "year": 2023,
+          "verified": false,
+          "description": "Active member of college sports committee"
+        }
+      ],
+      "internships": [
+        {
+          "id": "I004",
+          "company": "Tata Motors",
+          "role": "Design Engineering Intern",
+          "duration": "8 weeks",
+          "year": 2024,
+          "description": "Worked on automotive design and manufacturing processes"
+        }
+      ],
+      "research": [
+        {
+          "id": "R002",
+          "title": "Sustainable Manufacturing Processes",
+          "conference": "ASME Conference 2024",
+          "year": 2024,
+          "status": "Published",
+          "coAuthors": ["Dr. Amit Sharma"]
+        }
+      ],
+      "skills": ["AutoCAD", "SolidWorks", "MATLAB", "Manufacturing", "Quality Control"],
+      "attendanceData": {
+        "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"],
+        "attendance": [80, 85, 88, 90, 92, 85, 87, 88]
+      }
+    },
+    {
+      "id": "S004",
+      "name": "Ananya Singh",
+      "course": "B.Tech Civil",
+      "semester": 6,
+      "cgpa": 8.9,
+      "attendance": 94,
+      "email": "ananya.singh@college.edu",
+      "phone": "+91 9876543213",
+      "branch": "Civil Engineering",
+      "year": 3,
+      "status": "active",
+      "achievements": [
+        {
+          "id": "A012",
+          "title": "Structural Analysis Course Excellence",
+          "type": "Educational",
+          "year": 2024,
+          "verified": true,
+          "description": "Topped the structural analysis course with 97% marks"
+        },
+        {
+          "id": "A013",
+          "title": "Smart City Planning Competition",
+          "type": "Technical",
+          "year": 2025,
+          "verified": true,
+          "description": "Second place in inter-university smart city planning competition"
+        },
+        {
+          "id": "A014",
+          "title": "Environmental Club Secretary",
+          "type": "Co-curricular",
+          "year": 2024,
+          "verified": true,
+          "description": "Secretary of college environmental awareness club"
+        }
+      ],
+      "internships": [
+        {
+          "id": "I005",
+          "company": "L&T Construction",
+          "role": "Site Engineering Intern",
+          "duration": "10 weeks",
+          "year": 2024,
+          "description": "Gained hands-on experience in construction site management"
+        }
+      ],
+      "research": [],
+      "skills": ["AutoCAD", "STAAD Pro", "Project Management", "Surveying", "Environmental Engineering"],
+      "attendanceData": {
+        "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"],
+        "attendance": [90, 92, 94, 96, 98, 92, 95, 94]
+      }
+    },
+    {
+      "id": "S005",
+      "name": "Karan Joshi",
+      "course": "B.Tech CSE",
+      "semester": 2,
+      "cgpa": 6.8,
+      "attendance": 75,
+      "email": "karan.joshi@college.edu",
+      "phone": "+91 9876543214",
+      "branch": "Computer Science Engineering",
+      "year": 1,
+      "status": "disqualified",
+      "achievements": [
+        {
+          "id": "A015",
+          "title": "Programming Fundamentals Course",
+          "type": "Educational",
+          "year": 2024,
+          "verified": false,
+          "description": "Completed basic programming course"
+        },
+        {
+          "id": "A016",
+          "title": "Cultural Festival Organizer",
+          "type": "Co-curricular",
+          "year": 2024,
+          "verified": false,
+          "description": "Helped organize annual cultural festival"
+        }
+      ],
+      "internships": [],
+      "research": [],
+      "skills": ["C Programming", "HTML", "CSS", "Basic JavaScript"],
+      "attendanceData": {
+        "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"],
+        "attendance": [70, 72, 75, 78, 80, 72, 74, 75]
+      }
+    }
+  ]
+}
