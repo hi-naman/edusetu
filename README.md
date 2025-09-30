@@ -1,73 +1,61 @@
-# Welcome to your Lovable project
+# EduSetu - Centralized Student Activity Platform
 
-## Project info
+[![Login Page](https://github.com/user-attachments/assets/e1e83f74-ddab-462f-a80b-c01fb98ac0c1)]
+[![Student Panel](https://github.com/user-attachments/assets/538e3451-ed06-43aa-b90e-f3b7ae39df99)]
+[![Admin Panel](https://github.com/user-attachments/assets/33487681-47d9-430c-ac2a-52905be76ad3)]
+[![Recruiter Panel](https://github.com/user-attachments/assets/d7095b35-c33c-47e4-acc4-3b8f517009ae)]
 
-**URL**: https://lovable.dev/projects/1a885cac-fe75-4d18-a77a-ac9cb9c6d3fd
+**Live Demo**: [https://edusetu.netlify.app](https://edusetu.netlify.app)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📖 About
 
-**Use Lovable**
+EduSetu is a centralized digital platform that consolidates all student achievements—academic and non-academic—into one verified, shareable portfolio. It streamlines institutional accreditation processes and connects students with recruiters through verified credentials.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1a885cac-fe75-4d18-a77a-ac9cb9c6d3fd) and start prompting.
+**Smart India Hackathon 2025**  
+Problem Statement ID: SIH25093 | Theme: Smart Education | Team: Koders
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ❓ Problem
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Scattered Records** - Student achievements spread across departments with no central system
+- **No Verified Portfolio** - Students lack trusted digital profiles showcasing holistic achievements
+- **Audit Challenges** - Institutions struggle with NAAC/NIRF/AICTE due to unorganized data
+- **Limited Visibility** - Skills beyond academics remain undocumented
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ✅ Solution
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+EduSetu provides a **one-stop digital platform** featuring:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **Centralized Hub** - All academic & non-academic records in one place
+- **Student Dashboard** - Real-time updates on academics, attendance, and activities
+- **Activity Tracker** - Upload certificates, internships, events, volunteering records
+- **Faculty Verification** - Approval system ensures record authenticity
+- **Auto-Generated Portfolio** - Verified CV/portfolio (PDF + shareable link)
+- **Analytics & Reports** - One-click NAAC/NIRF/AICTE accreditation reports
+- **Recruiter Portal** - Advanced filtering to hire verified talent
+- **Fraud Detection** - AI/ML models catch fake or duplicate records
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v16+)
+- npm or yarn
+
+### Installation
+```bash
+# Clone the repository
+git clone <repository-url>
+cd edusetu
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1a885cac-fe75-4d18-a77a-ac9cb9c6d3fd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
