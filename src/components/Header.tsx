@@ -21,7 +21,7 @@ const Header = ({ user, onLogout }: HeaderProps) => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <div className="bg-white/20 backdrop-blur-sm rounded-lg p-2">
-              <h1 className="text-2xl font-bold">Smart Student Hub</h1>
+              <h1 className="text-2xl font-bold">EduSetu</h1>
             </div>
             {user && (
               <div className="hidden md:block">

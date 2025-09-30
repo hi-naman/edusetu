@@ -36,7 +36,7 @@ const Index = () => {
           </div>
           <div>
             <CardTitle className="text-4xl font-bold bg-gradient-to-r from-student to-student-secondary bg-clip-text text-transparent">
-              Smart Student Hub
+              EduSetu
             </CardTitle>
             <CardDescription className="text-lg text-muted-foreground mt-2">
               Your comprehensive digital dashboard for academic excellence
