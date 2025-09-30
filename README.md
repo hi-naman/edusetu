@@ -1,9 +1,9 @@
 # EduSetu - Centralized Student Activity Platform
 
-[![Login Page](https://github.com/user-attachments/assets/e1e83f74-ddab-462f-a80b-c01fb98ac0c1)]
-[![Student Panel](https://github.com/user-attachments/assets/538e3451-ed06-43aa-b90e-f3b7ae39df99)]
-[![Admin Panel](https://github.com/user-attachments/assets/33487681-47d9-430c-ac2a-52905be76ad3)]
-[![Recruiter Panel](https://github.com/user-attachments/assets/d7095b35-c33c-47e4-acc4-3b8f517009ae)]
+![Login Page](https://github.com/user-attachments/assets/e1e83f74-ddab-462f-a80b-c01fb98ac0c1)
+![Student Panel](https://github.com/user-attachments/assets/538e3451-ed06-43aa-b90e-f3b7ae39df99)
+![Admin Panel](https://github.com/user-attachments/assets/33487681-47d9-430c-ac2a-52905be76ad3)
+![Recruiter Panel](https://github.com/user-attachments/assets/d7095b35-c33c-47e4-acc4-3b8f517009ae)
 
 **Live Demo**: [https://edusetu.netlify.app](https://edusetu.netlify.app)
 
